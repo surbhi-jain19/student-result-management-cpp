@@ -18,3 +18,8 @@ A console based application to manage results of multiple students.
 ## Platform
 - Language: C++
 - IDE: Code::Blocks
+
+## Class-Based Version (OOP)
+- Refactored the program using classes and objects
+- Implemented encapsulation using private data members
+- Used member functions for input, calculation, grading, and display
